@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoRDzAlex or just Alex
-- 👀 I'm currently an computer science student
+- 👀 I'm currently an software engineering student
 - 🌱 I'm learning daily new things about coding and scripting, that's also where i want to improve on.
 
 <!---
