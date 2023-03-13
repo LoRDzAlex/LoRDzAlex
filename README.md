@@ -4,7 +4,7 @@
 
 ![LoRDzAlex's GitHub stats](github-readme-stats-teal-iota-34.vercel.app/api?username=LoRDzAlex&show_icons=true&theme=radical)
 [![Top Langs](github-readme-stats-teal-iota-34.vercel.app/api/top-langs/?username=LoRDzAlex&show_icons=true&theme=radical)
-)](github-readme-stats-teal-iota-34.vercel.app)
+)](https://github.com/LoRDzAlex/github-readme-stats)
 
 
 <!---
