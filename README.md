@@ -4,7 +4,7 @@
 
 ![LoRDzAlex's GitHub stats](github-readme-stats-lordzalex.vercel.app/api?username=LoRDzAlex&show_icons=true&theme=radical)
 [![Top Langs](github-readme-stats-lordzalex.vercel.app/api/top-langs/?username=LoRDzAlex&show_icons=true&theme=radical)
-)](https://github.com/LoRDzAlex/github-readme-stats)
+(https://github.com/LoRDzAlex/github-readme-stats)]
 
 
 <!---
