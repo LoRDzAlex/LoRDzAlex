@@ -5,7 +5,7 @@
 <p> 🎮 Anime, board & video game enthusiast</p>
 </br>
 </br>
-
+</br>
 <img src="https://github-readme-stats-lordzalex.vercel.app/api/top-langs/?username=LoRDzAlex&show_icons=true&theme=radical"></img>
 <img src="https://github-readme-stats-lordzalex.vercel.app/api?username=LoRDzAlex&show_icons=true&theme=radical"></img>
 
