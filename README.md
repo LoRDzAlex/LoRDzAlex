@@ -2,9 +2,8 @@
 - 👀 I'm currently an software engineering student
 - 🌱 I'm learning daily new things about coding and scripting, that's also where i want to improve on.
 
-![LoRDzAlex's GitHub stats](github-readme-stats-lordzalex.vercel.app/api?username=LoRDzAlex&show_icons=true&theme=radical)
-[![Top Langs](github-readme-stats-lordzalex.vercel.app/api/top-langs/?username=LoRDzAlex&show_icons=true&theme=radical)
-(https://github.com/LoRDzAlex/github-readme-stats)]
+![LoRDzAlex's GitHub stats](https://github-readme-stats-lordzalex.vercel.app/api?username=LoRDzAlex&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-lordzalex.vercel.app/api/top-langs/?username=LoRDzAlex&show_icons=true&theme=radical)]
 
 
 <!---
