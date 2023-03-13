@@ -1,4 +1,4 @@
-<p> <img width="200" alt="hello" align="left" src="https://ineedanime.com/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif"> </img> </p>
+<p> <img width="200" alt="hello" align="right" src="https://ineedanime.com/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif"> </img> </p>
 <p> 👋 Hi, I’m @LoRDzAlex or just Alex </p>
 <p> 👀 currently an software engineering student </p>
 <p> 🌱 learning daily new things about coding and scripting, that's also where i want to improve on. </p>
